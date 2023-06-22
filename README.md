@@ -33,4 +33,4 @@ Tic-Tac-Toe is a two-player game played on a 3x3 grid. Players take turns markin
 
 Pac-Man is a simplified version of the classic arcade game. You control Pac-Man using the arrow keys and try to eat all the dots while avoiding the ghosts. Your score increases with each dot eaten. Be careful not to collide with the ghosts, or you'll lose a life.
 
-Have fun playing these Python mini games!
+Have fun playing these Python Mini Games!
