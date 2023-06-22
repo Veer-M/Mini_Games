@@ -1,19 +1,22 @@
 # Python Mini Game
 This is a collection of mini games implemented in Python. The available games are:
 
-**BlackJack**: A simple text-based implementation of the BlackJack card game.
-
-**Hangman**: A text-based implementation of the Hangman word guessing game.
-
-**Tic-Tac-Toe**: A text-based implementation of the Tic-Tac-Toe game.
-
-**Pac-Man**: A simplified version of the Pac-Man game using the turtle graphics library.
+   - **BlackJack**: A simple text-based implementation of the BlackJack card game.
+    
+   - **Hangman**: A text-based implementation of the Hangman word guessing game.
+    
+   - **Tic-Tac-Toe**: A text-based implementation of the Tic-Tac-Toe game.
+    
+   - **Pac-Man**: A simplified version of the Pac-Man game using the turtle graphics library.
 
 ## How to Play
-Run the Python script.
-Choose a game from the available options: BlackJack, Hangman, Tic-Tac-Toe, or Pac-Man.
-Follow the instructions specific to each game to play.
-Note: Some games may require additional input, such as player names or game settings.
+  - Run the Python script.
+  
+  - Choose a game from the available options: BlackJack, Hangman, Tic-Tac-Toe, or Pac-Man.
+  
+  - Follow the instructions specific to each game to play.
+  
+    Note: Some games may require additional input, such as player names or game settings.
 
 ## Game Descriptions
 
